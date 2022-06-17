@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><beast beautitemplate='Standard' beautistatus='' namespace="beast.core:beast.evolution.alignment:beast.evolution.tree.coalescent:beast.core.util:beast.evolution.nuc:beast.evolution.operators:beast.evolution.sitemodel:beast.evolution.substitutionmodel:beast.evolution.likelihood" required="" version="2.6">
+
+
+    <data
+id="consensus-155"
+spec="Alignment"
+name="alignment">
+                        <sequence id="seq_21F_2019-12-26" spec="Sequence" taxon="21F_2019-12-26" totalcount="4" value="sequence""/>
+                        <sequence id="seq_32M_2019-12-19" spec="Sequence" taxon="32M_2019-12-19" totalcount="4" value="sequence""/>
+                        <sequence id="seq_39M1_2019-12-20" spec="Sequence" taxon="39M1_2019-12-20" totalcount="4" value="sequence""/>
+                        <sequence id="seq_39M2_2019-12-27" spec="Sequence" taxon="39M2_2019-12-27" totalcount="4" value="sequence""/>
+                        <sequence id="seq_40M1_2019-12-17" spec="Sequence" taxon="40M1_2019-12-17" totalcount="4" value="sequence""/>
+                        <sequence id="seq_40M2_2019-12-22" spec="Sequence" taxon="40M2_2019-12-22" totalcount="4" value="sequence""/>
+                        <sequence id="seq_41M1_2019-12-16" spec="Sequence" taxon="41M1_2019-12-16" totalcount="4" value="sequence""/>
+                        <sequence id="seq_41M2_2019-12-20" spec="Sequence" taxon="41M2_2019-12-20" totalcount="4" value="sequence""/>
+                        <sequence id="seq_41M3_2019-12-23" spec="Sequence" taxon="41M3_2019-12-23" totalcount="4" value="sequence""/>
+                        <sequence id="seq_43M_2019-12-24" spec="Sequence" taxon="43M_2019-12-24" totalcount="4" value="sequence""/>
+                        <sequence id="seq_44M_2019-12-17" spec="Sequence" taxon="44M_2019-12-17" totalcount="4" value="sequence""/>
+                        <sequence id="seq_49F_2019-12-23" spec="Sequence" taxon="49F_2019-12-23" totalcount="4" value="sequence""/>
+                        <sequence id="seq_51M_2019-12-17" spec="Sequence" taxon="51M_2019-12-17" totalcount="4" value="sequence""/>
+                        <sequence id="seq_52F_2019-12-22" spec="Sequence" taxon="52F_2019-12-22" totalcount="4" value="sequence""/>
+                        <sequence id="seq_53F_2019-12-25" spec="Sequence" taxon="53F_2019-12-25" totalcount="4" value="sequence""/>
+                        <sequence id="seq_56M_2019-12-20" spec="Sequence" taxon="56M_2019-12-20" totalcount="4" value="sequence""/>
+                        <sequence id="seq_61M_2019-12-20" spec="Sequence" taxon="61M_2019-12-20" totalcount="4" value="sequence""/>
+                        <sequence id="seq_62M_2019-12-12" spec="Sequence" taxon="62M_2019-12-12" totalcount="4" value="sequence""/>
+                        <sequence id="seq_65M_2019-12-13" spec="Sequence" taxon="65M_2019-12-13" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Anhui/33/2020_2020-01-22" spec="Sequence" taxon="Anhui/33/2020_2020-01-22" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Anhui/68/2020_2020-01-24" spec="Sequence" taxon="Anhui/68/2020_2020-01-24" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Anhui/98/2020_2020-01-25" spec="Sequence" taxon="Anhui/98/2020_2020-01-25" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Australia/NSW02/2020_2020-01-16" spec="Sequence" taxon="Australia/NSW02/2020_2020-01-16" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Australia/VIC03/2020_2020-01-19" spec="Sequence" taxon="Australia/VIC03/2020_2020-01-19" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Australia/VIC13/2020_2020-01-25" spec="Sequence" taxon="Australia/VIC13/2020_2020-01-25" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Australia/VPRL014/2020_2020-01-24" spec="Sequence" taxon="Australia/VPRL014/2020_2020-01-24" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Beijing/105/2020_2020-01-20" spec="Sequence" taxon="Beijing/105/2020_2020-01-20" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Beijing/233/2020_2020-01-22" spec="Sequence" taxon="Beijing/233/2020_2020-01-22" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Beijing/BJ288/2020_2020-01-23" spec="Sequence" taxon="Beijing/BJ288/2020_2020-01-23" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Beijing/WH-09/2020_2020-01-02" spec="Sequence" taxon="Beijing/WH-09/2020_2020-01-02" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Cambodia/0012/2020_2020-01-21" spec="Sequence" taxon="Cambodia/0012/2020_2020-01-21" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Chongqing/ZX01/2020_2020-01-17" spec="Sequence" taxon="Chongqing/ZX01/2020_2020-01-17" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Foshan/20SF210/2020_2020-01-16" spec="Sequence" taxon="Foshan/20SF210/2020_2020-01-16" totalcount="4" value="sequence""/>
+                        <sequence id="seq_France/IDF-0372-P5/2020_2020-01-17" spec="Sequence" taxon="France/IDF-0372-P5/2020_2020-01-17" totalcount="4" value="sequence""/>
+                        <sequence id="seq_France/IDF-0515/2020_2020-01-23" spec="Sequence" taxon="France/IDF-0515/2020_2020-01-23" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Germany/BY-ChVir-929-2/2020_2020-01-22" spec="Sequence" taxon="Germany/BY-ChVir-929-2/2020_2020-01-22" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Guangdong/2020XN4239-P0034/2020_2020-01-24" spec="Sequence" taxon="Guangdong/2020XN4239-P0034/2020_2020-01-24" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Guangdong/2020XN4243-P0035/2020_2020-01-24" spec="Sequence" taxon="Guangdong/2020XN4243-P0035/2020_2020-01-24" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Guangdong/2020XN4373-P0039/2020_2020-01-24" spec="Sequence" taxon="Guangdong/2020XN4373-P0039/2020_2020-01-24" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Guangdong/20SF012/2020_2020-01-08" spec="Sequence" taxon="Guangdong/20SF012/2020_2020-01-08" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Guangdong/20SF013/2020_2020-01-09" spec="Sequence" taxon="Guangdong/20SF013/2020_2020-01-09" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Guangdong/20SF014/2020_2020-01-09" spec="Sequence" taxon="Guangdong/20SF014/2020_2020-01-09" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Guangdong/20SF025/2020_2020-01-09" spec="Sequence" taxon="Guangdong/20SF025/2020_2020-01-09" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Guangdong/20SF028/2020_2020-01-11" spec="Sequence" taxon="Guangdong/20SF028/2020_2020-01-11" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Guangdong/20SF040/2020_2020-01-12" spec="Sequence" taxon="Guangdong/20SF040/2020_2020-01-12" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Guangdong/20SF043/2020_2020-01-12" spec="Sequence" taxon="Guangdong/20SF043/2020_2020-01-12" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Guangdong/20SF115/2020_2020-01-15" spec="Sequence" taxon="Guangdong/20SF115/2020_2020-01-15" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Guangdong/20SF1152/2020_2020-01-24" spec="Sequence" taxon="Guangdong/20SF1152/2020_2020-01-24" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Guangdong/20SF118/2020_2020-01-15" spec="Sequence" taxon="Guangdong/20SF118/2020_2020-01-15" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Guangdong/20SF156/2020_2020-01-16" spec="Sequence" taxon="Guangdong/20SF156/2020_2020-01-16" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Guangdong/20SF179/2020_2020-01-16" spec="Sequence" taxon="Guangdong/20SF179/2020_2020-01-16" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Guangdong/20SF195/2020_2020-01-16" spec="Sequence" taxon="Guangdong/20SF195/2020_2020-01-16" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Guangdong/20SF201/2020_2020-01-17" spec="Sequence" taxon="Guangdong/20SF201/2020_2020-01-17" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Guangdong/20SF262/2020_2020-01-17" spec="Sequence" taxon="Guangdong/20SF262/2020_2020-01-17" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Guangdong/20SF808/2020_2020-01-22" spec="Sequence" taxon="Guangdong/20SF808/2020_2020-01-22" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Guangdong/HKU-SZ-002/2020_2020-01-04" spec="Sequence" taxon="Guangdong/HKU-SZ-002/2020_2020-01-04" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Guangzhou/20SF206/2020_2020-01-16" spec="Sequence" taxon="Guangzhou/20SF206/2020_2020-01-16" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Guangzhou/GZMU0054/2020_2020-01-23" spec="Sequence" taxon="Guangzhou/GZMU0054/2020_2020-01-23" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Guangzhou/GZMU0058/2020_2020-01-21" spec="Sequence" taxon="Guangzhou/GZMU0058/2020_2020-01-21" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Hangzhou/HZ-1/2020_2020-01-14" spec="Sequence" taxon="Hangzhou/HZ-1/2020_2020-01-14" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Hangzhou/HZ185/2020_2020-01-17" spec="Sequence" taxon="Hangzhou/HZ185/2020_2020-01-17" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Hangzhou/HZ60/2020_2020-01-16" spec="Sequence" taxon="Hangzhou/HZ60/2020_2020-01-16" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Hangzhou/HZ638/2020_2020-01-19" spec="Sequence" taxon="Hangzhou/HZ638/2020_2020-01-19" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Hangzhou/HZ79/2020_2020-01-15" spec="Sequence" taxon="Hangzhou/HZ79/2020_2020-01-15" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Hangzhou/HZCDC0001/2020_2020-01-13" spec="Sequence" taxon="Hangzhou/HZCDC0001/2020_2020-01-13" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Hangzhou/HZCDC0013/2020_2020-01-14" spec="Sequence" taxon="Hangzhou/HZCDC0013/2020_2020-01-14" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Hangzhou/HZCDC0048L/2020_2020-01-15" spec="Sequence" taxon="Hangzhou/HZCDC0048L/2020_2020-01-15" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Hangzhou/HZCDC0090/2020_2020-01-15" spec="Sequence" taxon="Hangzhou/HZCDC0090/2020_2020-01-15" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Hangzhou/HZCDC0090L/2020_2020-01-15" spec="Sequence" taxon="Hangzhou/HZCDC0090L/2020_2020-01-15" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Hangzhou/HZCDC0091/2020_2020-01-15" spec="Sequence" taxon="Hangzhou/HZCDC0091/2020_2020-01-15" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Hangzhou/HZCDC0135/2020_2020-01-16" spec="Sequence" taxon="Hangzhou/HZCDC0135/2020_2020-01-16" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Hangzhou/ZJU-03/2020_2020-01-19" spec="Sequence" taxon="Hangzhou/ZJU-03/2020_2020-01-19" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Hangzhou/ZJU-09/2020_2020-01-22" spec="Sequence" taxon="Hangzhou/ZJU-09/2020_2020-01-22" totalcount="4" value="sequence""/>
+                        <sequence id="seq_HongKong/HKU-001a/2020_2020-01-16" spec="Sequence" taxon="HongKong/HKU-001a/2020_2020-01-16" totalcount="4" value="sequence""/>
+                        <sequence id="seq_HongKong/HKU-903a/2020_2020-01-18" spec="Sequence" taxon="HongKong/HKU-903a/2020_2020-01-18" totalcount="4" value="sequence""/>
+                        <sequence id="seq_HongKong/HKU-905a/2020_2020-01-18" spec="Sequence" taxon="HongKong/HKU-905a/2020_2020-01-18" totalcount="4" value="sequence""/>
+                        <sequence id="seq_HongKong/HKU-911a/2020_2020-01-24" spec="Sequence" taxon="HongKong/HKU-911a/2020_2020-01-24" totalcount="4" value="sequence""/>
+                        <sequence id="seq_HongKong/VB20017970-2/2020_2020-01-15" spec="Sequence" taxon="HongKong/VB20017970-2/2020_2020-01-15" totalcount="4" value="sequence""/>
+                        <sequence id="seq_HongKong/VM20001061-2/2020_2020-01-16" spec="Sequence" taxon="HongKong/VM20001061-2/2020_2020-01-16" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Hunan/HN-CIDC-P2/2020_2020-01-11" spec="Sequence" taxon="Hunan/HN-CIDC-P2/2020_2020-01-11" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Hunan/HN-CIDC-P5/2020_2020-01-19" spec="Sequence" taxon="Hunan/HN-CIDC-P5/2020_2020-01-19" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Hunan/HN-CIDC-P8/2020_2020-01-20" spec="Sequence" taxon="Hunan/HN-CIDC-P8/2020_2020-01-20" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Italy/LAZ-INMI-SPL1/2020_2020-01-23" spec="Sequence" taxon="Italy/LAZ-INMI-SPL1/2020_2020-01-23" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Japan/NA-20-05-1/2020_2020-01-19" spec="Sequence" taxon="Japan/NA-20-05-1/2020_2020-01-19" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Japan/PG-0015/2020_2020-01-14" spec="Sequence" taxon="Japan/PG-0015/2020_2020-01-14" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Jiangsu/IVDC-JS-001/2020_2020-01-13" spec="Sequence" taxon="Jiangsu/IVDC-JS-001/2020_2020-01-13" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Jiangsu/JS03/2020_2020-01-18" spec="Sequence" taxon="Jiangsu/JS03/2020_2020-01-18" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Jiangxi/IVDC-JX-002/2020_2020-01-05" spec="Sequence" taxon="Jiangxi/IVDC-JX-002/2020_2020-01-05" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Jingzhou/HBCDC-HB-01/2020_2020-01-02" spec="Sequence" taxon="Jingzhou/HBCDC-HB-01/2020_2020-01-02" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Lishui/LS003/2020_2020-01-18" spec="Sequence" taxon="Lishui/LS003/2020_2020-01-18" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Lishui/LS559/2020_2020-01-25" spec="Sequence" taxon="Lishui/LS559/2020_2020-01-25" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Malaysia/MKAK-CL-2020-5096/2020_2020-01-24" spec="Sequence" taxon="Malaysia/MKAK-CL-2020-5096/2020_2020-01-24" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Nanchang/JX174/2020_2020-01-23" spec="Sequence" taxon="Nanchang/JX174/2020_2020-01-23" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Nanchang/JX176/2020_2020-01-23" spec="Sequence" taxon="Nanchang/JX176/2020_2020-01-23" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Nanchang/JX177/2020_2020-01-24" spec="Sequence" taxon="Nanchang/JX177/2020_2020-01-24" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Nepal/61/2020_2020-01-07" spec="Sequence" taxon="Nepal/61/2020_2020-01-07" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Pingxiang/JX5/2020_2020-01-05" spec="Sequence" taxon="Pingxiang/JX5/2020_2020-01-05" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Shandong/2020C1240086/2020_2020-01-21" spec="Sequence" taxon="Shandong/2020C1240086/2020_2020-01-21" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Shandong/2020C1240381/2020_2020-01-25" spec="Sequence" taxon="Shandong/2020C1240381/2020_2020-01-25" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Shandong/2020C1240533/2020_2020-01-18" spec="Sequence" taxon="Shandong/2020C1240533/2020_2020-01-18" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Shandong/LY003-2/2020_2020-01-17" spec="Sequence" taxon="Shandong/LY003-2/2020_2020-01-17" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Shanghai/SH0002/2020_2020-01-19" spec="Sequence" taxon="Shanghai/SH0002/2020_2020-01-19" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Shanghai/SH0023/2020_2020-01-24" spec="Sequence" taxon="Shanghai/SH0023/2020_2020-01-24" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Shanghai/SH0035/2020_2020-01-24" spec="Sequence" taxon="Shanghai/SH0035/2020_2020-01-24" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Shanghai/SH0040/2020_2020-01-24" spec="Sequence" taxon="Shanghai/SH0040/2020_2020-01-24" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Shanghai/SH0093/2020_2020-01-15" spec="Sequence" taxon="Shanghai/SH0093/2020_2020-01-15" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Shangrao/JX29/2020_2020-01-16" spec="Sequence" taxon="Shangrao/JX29/2020_2020-01-16" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Shaoxing/03/2020_2020-01-24" spec="Sequence" taxon="Shaoxing/03/2020_2020-01-24" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Shaoxing/05/2020_2020-01-25" spec="Sequence" taxon="Shaoxing/05/2020_2020-01-25" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Shenzhen/HKU-SZ-005/2020_2020-01-05" spec="Sequence" taxon="Shenzhen/HKU-SZ-005/2020_2020-01-05" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Shenzhen/SZTH-002/2020_2020-01-07" spec="Sequence" taxon="Shenzhen/SZTH-002/2020_2020-01-07" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Shenzhen/SZTH-003/2020_2020-01-10" spec="Sequence" taxon="Shenzhen/SZTH-003/2020_2020-01-10" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Sichuan/IVDC-SC-001/2020_2020-01-09" spec="Sequence" taxon="Sichuan/IVDC-SC-001/2020_2020-01-09" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Sichuan/SC-MY-057/2020_2020-01-16" spec="Sequence" taxon="Sichuan/SC-MY-057/2020_2020-01-16" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Sichuan/SC-NC-077/2020_2020-01-23" spec="Sequence" taxon="Sichuan/SC-NC-077/2020_2020-01-23" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Sichuan/SC-PHCC2-039/2020_2020-01-21" spec="Sequence" taxon="Sichuan/SC-PHCC2-039/2020_2020-01-21" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Sichuan/SC-PHCC2-045/2020_2020-01-20" spec="Sequence" taxon="Sichuan/SC-PHCC2-045/2020_2020-01-20" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Sichuan/SC-WCH-311/2020_2020-01-21" spec="Sequence" taxon="Sichuan/SC-WCH-311/2020_2020-01-21" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Sichuan/SC-WCH3-255/2020_2020-01-21" spec="Sequence" taxon="Sichuan/SC-WCH3-255/2020_2020-01-21" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Singapore/2/2020_2020-01-19" spec="Sequence" taxon="Singapore/2/2020_2020-01-19" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Singapore/2nan/2020_2020-01-21" spec="Sequence" taxon="Singapore/2nan/2020_2020-01-21" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Thailand/61/2020_2020-01-02" spec="Sequence" taxon="Thailand/61/2020_2020-01-02" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Thailand/74/2020_2020-01-07" spec="Sequence" taxon="Thailand/74/2020_2020-01-07" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Thailand/NIH-59/2020_2020-01-10" spec="Sequence" taxon="Thailand/NIH-59/2020_2020-01-10" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Thailand/Nonthaburi_59/2020_2020-01-07" spec="Sequence" taxon="Thailand/Nonthaburi_59/2020_2020-01-07" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Thailand/Nonthaburi_68/2020_2020-01-09" spec="Sequence" taxon="Thailand/Nonthaburi_68/2020_2020-01-09" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Thailand/SI200040-NT/2020_2020-01-02" spec="Sequence" taxon="Thailand/SI200040-NT/2020_2020-01-02" totalcount="4" value="sequence""/>
+                        <sequence id="seq_USA/AZ1/2020_2020-01-16" spec="Sequence" taxon="USA/AZ1/2020_2020-01-16" totalcount="4" value="sequence""/>
+                        <sequence id="seq_USA/CA-CDC-1/2020_2020-01-17" spec="Sequence" taxon="USA/CA-CDC-1/2020_2020-01-17" totalcount="4" value="sequence""/>
+                        <sequence id="seq_USA/WA-NIH-WA1/2020_2020-01-13" spec="Sequence" taxon="USA/WA-NIH-WA1/2020_2020-01-13" totalcount="4" value="sequence""/>
+                        <sequence id="seq_USA/WA1/2020_2020-01-13" spec="Sequence" taxon="USA/WA1/2020_2020-01-13" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Vietnam/19-01S/2020_2020-01-16" spec="Sequence" taxon="Vietnam/19-01S/2020_2020-01-16" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Vietnam/19-02S/2020_2020-01-16" spec="Sequence" taxon="Vietnam/19-02S/2020_2020-01-16" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Wuhan/0125-A137/2020_2020-01-19" spec="Sequence" taxon="Wuhan/0125-A137/2020_2020-01-19" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Wuhan/0125-A152/2020_2020-01-19" spec="Sequence" taxon="Wuhan/0125-A152/2020_2020-01-19" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Wuhan/0125-A160/2020_2020-01-19" spec="Sequence" taxon="Wuhan/0125-A160/2020_2020-01-19" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Wuhan/0125-A170/2020_2020-01-19" spec="Sequence" taxon="Wuhan/0125-A170/2020_2020-01-19" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Wuhan/0126-C10/2020_2020-01-20" spec="Sequence" taxon="Wuhan/0126-C10/2020_2020-01-20" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Wuhan/0126-C101/2020_2020-01-20" spec="Sequence" taxon="Wuhan/0126-C101/2020_2020-01-20" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Wuhan/0126-C77/2020_2020-01-20" spec="Sequence" taxon="Wuhan/0126-C77/2020_2020-01-20" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Wuhan/HBCDC-HB-02/2020_2020-01-11" spec="Sequence" taxon="Wuhan/HBCDC-HB-02/2020_2020-01-11" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Wuhan/HBCDC-HB-03/2020_2020-01-12" spec="Sequence" taxon="Wuhan/HBCDC-HB-03/2020_2020-01-12" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Wuhan/HBCDC-HB-04/2020_2020-01-12" spec="Sequence" taxon="Wuhan/HBCDC-HB-04/2020_2020-01-12" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Wuhan/OS52/2020_2020-01-04" spec="Sequence" taxon="Wuhan/OS52/2020_2020-01-04" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Wuhan/WHUH004/2020_2020-01-16" spec="Sequence" taxon="Wuhan/WHUH004/2020_2020-01-16" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Wuhan/WHUH008/2020_2020-01-16" spec="Sequence" taxon="Wuhan/WHUH008/2020_2020-01-16" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Wuhan/WHUH012/2020_2020-01-16" spec="Sequence" taxon="Wuhan/WHUH012/2020_2020-01-16" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Wuhan/WHUH020/2020_2020-01-16" spec="Sequence" taxon="Wuhan/WHUH020/2020_2020-01-16" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Wuhan/WHUH021/2020_2020-01-16" spec="Sequence" taxon="Wuhan/WHUH021/2020_2020-01-16" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Wuhan/YB012504/2020_2020-01-19" spec="Sequence" taxon="Wuhan/YB012504/2020_2020-01-19" totalcount="4" value="sequence""/>
+                        <sequence id="seq_YS8011_2020-01-01" spec="Sequence" taxon="YS8011_2020-01-01" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Yunnan/IVDC-YN-003/2020_2020-01-11" spec="Sequence" taxon="Yunnan/IVDC-YN-003/2020_2020-01-11" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Zhejiang/CN2/2020_2020-01-16" spec="Sequence" taxon="Zhejiang/CN2/2020_2020-01-16" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Zhejiang/CN5/2020_2020-01-16" spec="Sequence" taxon="Zhejiang/CN5/2020_2020-01-16" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Zhejiang/WZ-01/2020_2020-01-10" spec="Sequence" taxon="Zhejiang/WZ-01/2020_2020-01-10" totalcount="4" value="sequence""/>
+                        <sequence id="seq_Zhejiang/WZ-02/2020_2020-01-11" spec="Sequence" taxon="Zhejiang/WZ-02/2020_2020-01-11" totalcount="4" value="sequence""/>
+                    </data>
+
+
+    
+
+
+    
+
+
+    
+<map name="Uniform" >beast.math.distributions.Uniform</map>
+<map name="Exponential" >beast.math.distributions.Exponential</map>
+<map name="LogNormal" >beast.math.distributions.LogNormalDistributionModel</map>
+<map name="Normal" >beast.math.distributions.Normal</map>
+<map name="Beta" >beast.math.distributions.Beta</map>
+<map name="Gamma" >beast.math.distributions.Gamma</map>
+<map name="LaplaceDistribution" >beast.math.distributions.LaplaceDistribution</map>
+<map name="prior" >beast.math.distributions.Prior</map>
+<map name="InverseGamma" >beast.math.distributions.InverseGamma</map>
+<map name="OneOnX" >beast.math.distributions.OneOnX</map>
+
+
+<run id="mcmc" spec="MCMC" chainLength="10000000">
+    <state id="state" spec="State" storeEvery="5000">
+        <tree id="Tree.t:consensus-155" spec="beast.evolution.tree.Tree" name="stateNode">
+            <trait id="dateTrait.t:consensus-155" spec="beast.evolution.tree.TraitSet" dateFormat="yyyy-M-dd" traitname="date" value="39M2_2019-12-27=2019-12-27,62M_2019-12-12=2019-12-12,44M_2019-12-17=2019-12-17,51M_2019-12-17=2019-12-17,49F_2019-12-23=2019-12-23,61M_2019-12-20=2019-12-20,56M_2019-12-20=2019-12-20,41M1_2019-12-16=2019-12-16,41M3_2019-12-23=2019-12-23,32M_2019-12-19=2019-12-19,40M1_2019-12-17=2019-12-17,65M_2019-12-13=2019-12-13,52F_2019-12-22=2019-12-22,53F_2019-12-25=2019-12-25,41M2_2019-12-20=2019-12-20,21F_2019-12-26=2019-12-26,39M1_2019-12-20=2019-12-20,40M2_2019-12-22=2019-12-22,43M_2019-12-24=2019-12-24,Wuhan/OS52/2020_2020-01-04=2020-01-04,Thailand/Nonthaburi_59/2020_2020-01-07=2020-01-07,Thailand/Nonthaburi_68/2020_2020-01-09=2020-01-09,Shenzhen/SZTH-002/2020_2020-01-07=2020-01-07,Shenzhen/SZTH-003/2020_2020-01-10=2020-01-10,Pingxiang/JX5/2020_2020-01-05=2020-01-05,Nepal/61/2020_2020-01-07=2020-01-07,Wuhan/HBCDC-HB-02/2020_2020-01-11=2020-01-11,Guangdong/20SF025/2020_2020-01-09=2020-01-09,Guangdong/20SF028/2020_2020-01-11=2020-01-11,Guangdong/20SF012/2020_2020-01-08=2020-01-08,Guangdong/20SF013/2020_2020-01-09=2020-01-09,Guangdong/20SF014/2020_2020-01-09=2020-01-09,Thailand/74/2020_2020-01-07=2020-01-07,Shenzhen/HKU-SZ-005/2020_2020-01-05=2020-01-05,Zhejiang/WZ-01/2020_2020-01-10=2020-01-10,Zhejiang/WZ-02/2020_2020-01-11=2020-01-11,Guangdong/HKU-SZ-002/2020_2020-01-04=2020-01-04,Hunan/HN-CIDC-P2/2020_2020-01-11=2020-01-11,Yunnan/IVDC-YN-003/2020_2020-01-11=2020-01-11,Sichuan/IVDC-SC-001/2020_2020-01-09=2020-01-09,Jiangxi/IVDC-JX-002/2020_2020-01-05=2020-01-05,Thailand/NIH-59/2020_2020-01-10=2020-01-10,Guangzhou/20SF206/2020_2020-01-16=2020-01-16,Foshan/20SF210/2020_2020-01-16=2020-01-16,Hangzhou/HZ60/2020_2020-01-16=2020-01-16,Hangzhou/HZ79/2020_2020-01-15=2020-01-15,Hangzhou/HZCDC0090L/2020_2020-01-15=2020-01-15,Hangzhou/HZCDC0090/2020_2020-01-15=2020-01-15,Hangzhou/HZCDC0048L/2020_2020-01-15=2020-01-15,Hangzhou/HZCDC0013/2020_2020-01-14=2020-01-14,Shangrao/JX29/2020_2020-01-16=2020-01-16,HongKong/HKU-001a/2020_2020-01-16=2020-01-16,Hangzhou/HZCDC0135/2020_2020-01-16=2020-01-16,Hangzhou/HZCDC0091/2020_2020-01-15=2020-01-15,Wuhan/HBCDC-HB-03/2020_2020-01-12=2020-01-12,Wuhan/HBCDC-HB-04/2020_2020-01-12=2020-01-12,Vietnam/19-02S/2020_2020-01-16=2020-01-16,Vietnam/19-01S/2020_2020-01-16=2020-01-16,Guangdong/20SF043/2020_2020-01-12=2020-01-12,Guangdong/20SF115/2020_2020-01-15=2020-01-15,Guangdong/20SF118/2020_2020-01-15=2020-01-15,Guangdong/20SF156/2020_2020-01-16=2020-01-16,Guangdong/20SF179/2020_2020-01-16=2020-01-16,Guangdong/20SF195/2020_2020-01-16=2020-01-16,USA/AZ1/2020_2020-01-16=2020-01-16,HongKong/VM20001061-2/2020_2020-01-16=2020-01-16,Guangdong/20SF040/2020_2020-01-12=2020-01-12,Australia/NSW02/2020_2020-01-16=2020-01-16,HongKong/VB20017970-2/2020_2020-01-15=2020-01-15,Wuhan/WHUH004/2020_2020-01-16=2020-01-16,Wuhan/WHUH008/2020_2020-01-16=2020-01-16,Wuhan/WHUH012/2020_2020-01-16=2020-01-16,Wuhan/WHUH020/2020_2020-01-16=2020-01-16,Wuhan/WHUH021/2020_2020-01-16=2020-01-16,Hangzhou/HZCDC0001/2020_2020-01-13=2020-01-13,Japan/PG-0015/2020_2020-01-14=2020-01-14,Shanghai/SH0093/2020_2020-01-15=2020-01-15,Hangzhou/HZ-1/2020_2020-01-14=2020-01-14,Jiangsu/IVDC-JS-001/2020_2020-01-13=2020-01-13,Zhejiang/CN2/2020_2020-01-16=2020-01-16,Zhejiang/CN5/2020_2020-01-16=2020-01-16,USA/WA1/2020_2020-01-13=2020-01-13,Sichuan/SC-MY-057/2020_2020-01-16=2020-01-16,USA/WA-NIH-WA1/2020_2020-01-13=2020-01-13,Japan/NA-20-05-1/2020_2020-01-19=2020-01-19,Guangzhou/GZMU0058/2020_2020-01-21=2020-01-21,Lishui/LS003/2020_2020-01-18=2020-01-18,Jiangsu/JS03/2020_2020-01-18=2020-01-18,Beijing/105/2020_2020-01-20=2020-01-20,Guangdong/20SF201/2020_2020-01-17=2020-01-17,Cambodia/0012/2020_2020-01-21=2020-01-21,Hangzhou/HZ185/2020_2020-01-17=2020-01-17,Hangzhou/HZ638/2020_2020-01-19=2020-01-19,Shandong/LY003-2/2020_2020-01-17=2020-01-17,HongKong/HKU-903a/2020_2020-01-18=2020-01-18,France/IDF-0372-P5/2020_2020-01-17=2020-01-17,Guangdong/20SF262/2020_2020-01-17=2020-01-17,Australia/VIC03/2020_2020-01-19=2020-01-19,Wuhan/YB012504/2020_2020-01-19=2020-01-19,HongKong/HKU-905a/2020_2020-01-18=2020-01-18,USA/CA-CDC-1/2020_2020-01-17=2020-01-17,Hunan/HN-CIDC-P5/2020_2020-01-19=2020-01-19,Hunan/HN-CIDC-P8/2020_2020-01-20=2020-01-20,Shanghai/SH0002/2020_2020-01-19=2020-01-19,Singapore/2nan/2020_2020-01-21=2020-01-21,Shandong/2020C1240533/2020_2020-01-18=2020-01-18,Shandong/2020C1240086/2020_2020-01-21=2020-01-21,Hangzhou/ZJU-03/2020_2020-01-19=2020-01-19,Singapore/2/2020_2020-01-19=2020-01-19,Chongqing/ZX01/2020_2020-01-17=2020-01-17,Sichuan/SC-PHCC2-039/2020_2020-01-21=2020-01-21,Sichuan/SC-PHCC2-045/2020_2020-01-20=2020-01-20,Sichuan/SC-WCH-311/2020_2020-01-21=2020-01-21,Sichuan/SC-WCH3-255/2020_2020-01-21=2020-01-21,Wuhan/0126-C10/2020_2020-01-20=2020-01-20,Wuhan/0126-C77/2020_2020-01-20=2020-01-20,Wuhan/0126-C101/2020_2020-01-20=2020-01-20,Wuhan/0125-A137/2020_2020-01-19=2020-01-19,Wuhan/0125-A152/2020_2020-01-19=2020-01-19,Wuhan/0125-A160/2020_2020-01-19=2020-01-19,Wuhan/0125-A170/2020_2020-01-19=2020-01-19,Australia/VIC13/2020_2020-01-25=2020-01-25,Shaoxing/03/2020_2020-01-24=2020-01-24,Shaoxing/05/2020_2020-01-25=2020-01-25,Guangzhou/GZMU0054/2020_2020-01-23=2020-01-23,Beijing/233/2020_2020-01-22=2020-01-22,Nanchang/JX174/2020_2020-01-23=2020-01-23,Nanchang/JX177/2020_2020-01-24=2020-01-24,Anhui/33/2020_2020-01-22=2020-01-22,Italy/LAZ-INMI-SPL1/2020_2020-01-23=2020-01-23,Nanchang/JX176/2020_2020-01-23=2020-01-23,Hangzhou/ZJU-09/2020_2020-01-22=2020-01-22,Guangdong/20SF1152/2020_2020-01-24=2020-01-24,Guangdong/20SF808/2020_2020-01-22=2020-01-22,Beijing/BJ288/2020_2020-01-23=2020-01-23,Anhui/68/2020_2020-01-24=2020-01-24,Anhui/98/2020_2020-01-25=2020-01-25,Lishui/LS559/2020_2020-01-25=2020-01-25,HongKong/HKU-911a/2020_2020-01-24=2020-01-24,Germany/BY-ChVir-929-2/2020_2020-01-22=2020-01-22,Shanghai/SH0023/2020_2020-01-24=2020-01-24,Shanghai/SH0035/2020_2020-01-24=2020-01-24,Shanghai/SH0040/2020_2020-01-24=2020-01-24,Shandong/2020C1240381/2020_2020-01-25=2020-01-25,France/IDF-0515/2020_2020-01-23=2020-01-23,Australia/VPRL014/2020_2020-01-24=2020-01-24,Malaysia/MKAK-CL-2020-5096/2020_2020-01-24=2020-01-24,Sichuan/SC-NC-077/2020_2020-01-23=2020-01-23,Guangdong/2020XN4373-P0039/2020_2020-01-24=2020-01-24,Guangdong/2020XN4243-P0035/2020_2020-01-24=2020-01-24,Guangdong/2020XN4239-P0034/2020_2020-01-24=2020-01-24,Beijing/WH-09/2020_2020-01-02=2020-01-02,Thailand/SI200040-NT/2020_2020-01-02=2020-01-02,Thailand/61/2020_2020-01-02=2020-01-02,Jingzhou/HBCDC-HB-01/2020_2020-01-02=2020-01-02,YS8011_2020-01-01=2020-01-01">
+                <taxa id="TaxonSet.consensus-155" spec="TaxonSet">
+                    <alignment idref="consensus-155"/>
+                </taxa>
+            </trait>
+            <taxonset idref="TaxonSet.consensus-155"/>
+        </tree>
+        <parameter id="clockRate.c:consensus-155" spec="parameter.RealParameter" lower="8.0E-4" name="stateNode" upper="8.0E-4">8.0E-4</parameter>
+        <parameter id="origin.t"
+                       spec="parameter.RealParameter"
+                       lower="0.0"
+                       name="stateNode"
+                       upper="Infinity">0.2600905756416978</parameter>
+            <parameter id="birthRate.t"
+                       spec="parameter.RealParameter"
+                       lower="0.0"
+                       name="stateNode"
+                       upper="Infinity">0.75</parameter>
+            <parameter id="samplingRate.t"
+                       spec="parameter.RealParameter"
+                       lower="0.0"
+                       name="stateNode"
+                       upper="Infinity">0.25</parameter>
+            <parameter id="nuProb.t"
+                       spec="parameter.RealParameter"
+                       lower="0"
+                       upper="1.0"
+                       name="stateNode">0.05</parameter>
+        </state>
+        <init id="RandomTree.t:consensus-155"
+              spec="beast.evolution.tree.RandomTree"
+              estimate="false"
+              initial="@Tree.t:consensus-155"
+              taxa="@consensus-155"
+              rootHeight="0.1600905756416978">
+            <populationModel id="ConstantPopulation0.t:consensus-155"
+                             spec="ConstantPopulation">
+                <parameter id="randomPopSize.t:consensus-155"
+                           spec="parameter.RealParameter"
+                           name="popSize">1.0</parameter>
+            </populationModel>
+        </init>
+        <distribution id="posterior"
+                      spec="util.CompoundDistribution">
+            <distribution id="prior"
+                          spec="util.CompoundDistribution">
+                <distribution id="treePrior.t:consensus-155"
+                              tree="@Tree.t:consensus-155"
+                              spec="timtam.TimTam"
+                              lambda="@birthRate.t"
+                              mu="0.146"
+                              psi="@samplingRate.t"
+                              originTime="0.2600915756416978"
+                              nu="@nuProb.t"
+                              disasterTimes="0.2600905756416978 0.2573508496143404 0.254611123586983 0.2518713975596256 0.24913167153226823 0.24639194550468346 0.24365221947732607 0.24091249344996868 0.2381727674226113 0.2354330413952539 0.2326933153678965 0.22995358934031174 0.22721386331295435 0.22447413728559695 0.22173441125823956 0.21899468523088217 0.21625495920352478 0.21351523317594 0.21077550714858262 0.20803578112122523 0.20529605509386784 0.20255632906651044 0.19981660303915305 0.19707687701156829 0.1943371509842109 0.1915974249568535 0.1888576989294961 0.18611797290213872 0.18337824687455395 0.18063852084719656 0.17789879481983917 0.17515906879248178 0.17241934276512438 0.169679616737767 0.16693989071018223 0.16420016468282483 0.16146043865546744 0.15872071262811005 0.15598098660075266 0.15324126057339527 0.1505015345458105 0.1477618085184531 0.14502208249109572 0.14228235646373832 0.13954263043638093 0.13680290440879617 0.13406317838143877 0.13132345235408138 0.128583726326724 0.1258440002993666 0.1231042742720092 0.12036454824442444 0.11762482221706705 0.11488509618970966 0.11214537016235226 0.10940564413499487 0.10666591810763748 0.10392619208005272 0.10118646605269532 0.09844674002533793 0.09570701399798054 0.09296728797062315 0.09022756194303838 0.08748783591568099 0.0847481098883236 0.0820083838609662 0.07926865783360881 0.07652893180625142 0.07378920577866666 0.07104947975130926 0.06830975372395187 0.06557377049171009 0.06284153005458393 0.06010928961745776 0.057377049180331596 0.05464480874297806 0.05191256830585189 0.049180327868725726 0.04644808743159956 0.043715846994473395 0.04098360655734723 0.038251366120221064 0.035519125682867525 0.03278688524574136 0.030054644808615194 0.02732240437148903 0.024590163934362863 0.021857923497236698 0.019125683060110532 0.016393442622756993 0.013661202185630827 0.010928961748504662 0.008196721311378496 0.005464480874252331 0.0027322404371261655 0"
+                              disasterSizes="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 3 0 0 4 0 5 3 2 9 4 10 5 5 4 3 13 9 11 13 10 41 34 40 23 47 40 49 91 70 115 113 135 178 185 281 293 363 389 416 797 807 1019 1293 1348 1345" />
+                <prior id="birthRatePrior.t"
+                       name="distribution"
+                       x="@birthRate.t">
+                    <LogNormal id="LogNormalDistributionModel.0"
+                               name="distr">
+                        <parameter spec="parameter.RealParameter"
+                                   estimate="false"
+                                   name="M">-2</parameter>
+                        <parameter spec="parameter.RealParameter"
+                                   estimate="false"
+                                   name="S">1.0</parameter>
+                    </LogNormal>
+                </prior>
+                <prior id="samplingRatePrior.t"
+                       name="distribution"
+                       x="@samplingRate.t">
+                    <LogNormal id="LogNormalDistributionModel.2"
+                               name="distr">
+                        <parameter spec="parameter.RealParameter"
+                                   estimate="false"
+                                   name="M">-2</parameter>
+                        <parameter spec="parameter.RealParameter"
+                                   estimate="false"
+                                   name="S">1.0</parameter>
+                    </LogNormal>
+                </prior>
+            </distribution>
+            <distribution id="likelihood"
+                          spec="util.CompoundDistribution"
+                          useThreads="true">
+                <distribution id="treeLikelihood.consensus-155"
+                              spec="ThreadedTreeLikelihood"
+                              data="@consensus-155"
+                              tree="@Tree.t:consensus-155">
+                    <siteModel id="SiteModel.s:consensus-155"
+                               spec="SiteModel">
+                        <parameter id="mutationRate.s:consensus-155"
+                                   spec="parameter.RealParameter"
+                                   estimate="false"
+                                   name="mutationRate">1.0</parameter>
+                        <parameter id="gammaShape.s:consensus-155"
+                                   spec="parameter.RealParameter"
+                                   estimate="false"
+                                   name="shape">1.0</parameter>
+                        <parameter id="proportionInvariant.s:consensus-155"
+                                   spec="parameter.RealParameter"
+                                   estimate="false"
+                                   lower="0.0"
+                                   name="proportionInvariant"
+                                   upper="1.0">0.0</parameter>
+                        <substModel id="JC69.s:consensus-155"
+                                    spec="JukesCantor" />
+                    </siteModel>
+                    <branchRateModel id="StrictClock.c:consensus-155"
+                                     spec="beast.evolution.branchratemodel.StrictClockModel"
+                                     clock.rate="@clockRate.c:consensus-155" />
+                </distribution>
+            </distribution>
+        </distribution>
+        <operator id="treeTreeScaler.t:consensus-155"
+                  spec="ScaleOperator"
+                  scaleFactor="0.5"
+                  tree="@Tree.t:consensus-155"
+                  weight="3.0" />
+        <operator id="treeTreeRootScaler.t:consensus-155"
+                  spec="ScaleOperator"
+                  rootOnly="true"
+                  scaleFactor="0.5"
+                  tree="@Tree.t:consensus-155"
+                  weight="3.0" />
+        <operator id="treeUniformOperator.t:consensus-155"
+                  spec="Uniform"
+                  tree="@Tree.t:consensus-155"
+                  weight="30.0" />
+        <operator id="treeSubtreeSlide.t:consensus-155"
+                  spec="SubtreeSlide"
+                  tree="@Tree.t:consensus-155"
+                  weight="15.0" />
+        <operator id="treeNarrow.t:consensus-155"
+                  spec="Exchange"
+                  tree="@Tree.t:consensus-155"
+                  weight="15.0" />
+        <operator id="treeWide.t:consensus-155"
+                  spec="Exchange"
+                  isNarrow="false"
+                  tree="@Tree.t:consensus-155"
+                  weight="3.0" />
+        <operator id="treeWilsonBalding.t:consensus-155"
+                  spec="WilsonBalding"
+                  tree="@Tree.t:consensus-155"
+                  weight="3.0" />
+        <operator id="birthRateScaler.t"
+                  spec="ScaleOperator"
+                  scaleFactor="0.9"
+                  parameter="@birthRate.t"
+                  weight="1.0" />
+        <operator id="birthRateWalk.t"
+                  spec="RealRandomWalkOperator"
+                  windowSize="0.01"
+                  parameter="@birthRate.t"
+                  weight="1.0" />
+        <operator id="samplingRateScaler.t"
+                  spec="ScaleOperator"
+                  scaleFactor="0.9"
+                  parameter="@samplingRate.t"
+                  weight="1.0" />
+        <operator id="samplingRateWalk.t"
+                  spec="RealRandomWalkOperator"
+                  windowSize="0.01"
+                  parameter="@samplingRate.t"
+                  weight="1.0" />
+        <operator id="updownBS.t"
+                  spec="UpDownOperator"
+                  scaleFactor="0.9"
+                  weight="2.0">
+            <up idref="birthRate.t" />
+            <down idref="samplingRate.t" />
+        </operator>
+        <operator id="nuScalar.t:consensus-155"
+                  spec="ScaleOperator"
+                  scaleFactor="0.9"
+                  parameter="@nuProb.t"
+                  weight="1.0" />
+        <operator id="nuWalk.t:consensus-155"
+                  spec="RealRandomWalkOperator"
+                  windowSize="0.01"
+                  parameter="@nuProb.t"
+                  weight="1.0" />
+        <logger id="tracelog"
+                spec="Logger"
+                fileName="consensus-155.log"
+                logEvery="1000"
+                model="@posterior"
+                sanitiseHeaders="true"
+                sort="smart">
+            <log idref="posterior" />
+            <log idref="likelihood" />
+            <log idref="prior" />
+            <log idref="treeLikelihood.consensus-155" />
+            <log idref="birthRate.t" />
+            <log idref="samplingRate.t" />
+            <log idref="nuProb.t" />
+            <log id="TimTamLogger.t:sequences"
+                 spec="timtam.TimTamLogger"
+                 timtam="@treePrior.t:consensus-155" />
+		    <log id="TreeHeight.t:consensus" spec="beast.evolution.tree.TreeHeightLogger" tree="@Tree.t:consensus-155"/>
+        </logger>
+        <logger id="screenlog"
+                spec="Logger"
+                logEvery="1000">
+            <log idref="posterior" />
+            <log idref="likelihood" />
+            <log idref="prior" />
+        </logger>
+        <logger id="treelog.t:consensus-155"
+                spec="Logger"
+                fileName="consensus-155.trees"
+                logEvery="1000"
+                mode="tree">
+            <log id="TreeWithMetaDataLogger.t:consensus-155"
+                 spec="beast.evolution.tree.TreeWithMetaDataLogger"
+                 tree="@Tree.t:consensus-155" />
+        </logger>
+        <operatorschedule id="OperatorSchedule"
+                          spec="OperatorSchedule" />
+
+</run>
+
+</beast>
