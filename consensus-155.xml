@@ -3,7 +3,7 @@
 
     <data
 id="consensus-155"
-spec="Alignment"
+spec="Alignment"  
 name="alignment">
                         <sequence id="seq_21F_2019-12-26" spec="Sequence" taxon="21F_2019-12-26" totalcount="4" value="sequence""/>
                         <sequence id="seq_32M_2019-12-19" spec="Sequence" taxon="32M_2019-12-19" totalcount="4" value="sequence""/>
